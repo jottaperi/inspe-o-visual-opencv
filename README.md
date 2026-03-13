@@ -1,6 +1,7 @@
-# inspe-o-visual-opencv
-1-Projeto em Python utilizando OpenCV que converte imagens coloridas para três métodos de tons de cinza: Average, Luminosity e Desaturation
 # Inspeção Visual com OpenCV
+
+Projeto em Python utilizando OpenCV que converte imagens coloridas para três métodos de tons de cinza: Average, Luminosity e Desaturation
+
 
 Este projeto é uma ferramenta de processamento de imagem que utiliza Python e a biblioteca OpenCV (e PIL) para realizar inspeções visuais.
 
